@@ -16,9 +16,28 @@
     width: 100%;
     height: 100px;
     background-color: rgb(200, 200, 57);
+    display: flex;
+}
+
+.sociales{
+    width: 90px;
+    height: 98px;
+    background-color: aliceblue;
+    margin: 2px;
+}
+.ingles{
+    width: 90px;
+    height: 98px;
+    background-color: aliceblue;
+    margin: 2px;
+}
+.matemáticas{
+    width: 90px;
+    height: 98px;
+    background-color: aliceblue;
+    margin: 2px;
 }
 .contenedor2{
-
     width: 100%;
     height: 1200px;
     background-color: rgb(245, 245, 33);
